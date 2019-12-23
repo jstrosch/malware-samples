@@ -1,0 +1,17 @@
+[+] Searching memory by Yara rules.
+[+] Detect malware by Yara rules.
+[+]   Process Name      : pythonw.exe
+[+]   Process ID        : 1748
+[+]   Malware name      : Lokibot
+[+]   Base Address(VAD) : 0x2B90000
+[+]   Size              : 0x800000
+----------------------------------------------------------------------
+Process: pythonw.exe (1748)
+
+[Config Info]
+Original URL 0        : kbfvzoboss.bid/alien/fre.php
+Original URL 1        : alphastand.trade/alien/fre.php
+Original URL 2        : alphastand.win/alien/fre.php
+Original URL 3        : alphastand.top/alien/fre.php
+Registry key 0        : Software\Microsoft\Windows\CurrentVersion\Run
+Setting URL           : http://galeadz.info/jp/five/fre.php
