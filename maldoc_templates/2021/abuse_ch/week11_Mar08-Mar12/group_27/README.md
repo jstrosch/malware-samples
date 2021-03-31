@@ -1,0 +1,9 @@
+## GROUP 27
+Total images: 2  
+
+NONE - 31d748392f447001ba275361fbe65695  
+OCR:   
+
+NONE - 6c7fb32d476b7a367df0403b6a8c950f  
+OCR:   
+

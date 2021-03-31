@@ -1,0 +1,9 @@
+## GROUP 22
+Total images: 2  
+
+NONE - 6b7b381f2e8355906a49071f611c0e80  
+OCR: Sens, SERVICE, AGREEMENT, aewa  
+
+NONE - b5f446e5cbd97b985aba8a9e8ce67318  
+OCR: Sens, SERVICE, AGREEMENT, aewa  
+
