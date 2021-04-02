@@ -1,0 +1,9 @@
+## GROUP 21
+Total images: 2  
+
+NONE - 2157d2c3b5ba5ae6fe5052353668234e  
+OCR: KAZCHROME  
+
+NONE - c9a43fd6623bf0bc287012b6ee10a98e  
+OCR: KAZCHROME  
+
