@@ -1,0 +1,9 @@
+## GROUP 24
+Total images: 2  
+
+NONE - 3fc372974d1ea8158f40e7b89084a7f0  
+OCR:   
+
+NONE - 13653be1bd43539522d4e1702fe38fc5  
+OCR:   
+
