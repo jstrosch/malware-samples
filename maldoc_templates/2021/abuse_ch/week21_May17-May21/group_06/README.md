@@ -1,0 +1,6 @@
+## GROUP 6
+Total images: 1  
+
+RemcosRAT - a984000c3d335cf713fe56171f10daeb  
+OCR: IMIOR, PHARMALIVT™C, OUDULTEMS, (IMETED  
+
