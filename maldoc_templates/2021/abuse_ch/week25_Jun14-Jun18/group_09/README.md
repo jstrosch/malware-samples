@@ -1,0 +1,6 @@
+## GROUP 9
+Total images: 1  
+
+NONE - 985547e134d3884d7623d3be63be79b4  
+OCR: AAGT, FILTERS  
+
