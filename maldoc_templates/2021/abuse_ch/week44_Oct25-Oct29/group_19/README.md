@@ -1,0 +1,6 @@
+## GROUP 19
+Total images: 1  
+
+NONE - 58f4a5737c63e7a1b52df3c69e308c07  
+OCR: ~CHEMION, LOGISTIK, KOMPETENZ  
+
