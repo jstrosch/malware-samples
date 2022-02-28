@@ -1,0 +1,9 @@
+## GROUP 7
+Total images: 2  
+
+NanoCore - ad21005195136669af3a644f73e7197f  
+OCR: Caria, GLOBALONE, MOULD  
+
+NanoCore - ef4bda744334b23ef26595546a944591  
+OCR: Caria, GLOBALONE, MOULD  
+
