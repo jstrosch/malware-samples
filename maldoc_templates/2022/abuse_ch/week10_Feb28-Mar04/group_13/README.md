@@ -1,0 +1,6 @@
+## GROUP 13
+Total images: 1  
+
+NONE - 9fd4a09fab9d9341b0d2d4da68ab6dcf  
+OCR: OCIOLINGUISTE-JURILINGUISTE, parole, ABDELAZIZ, NASRIA  
+
